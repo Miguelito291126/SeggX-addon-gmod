@@ -1,2 +1,2 @@
 # SeggX-addon
-Is in the workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3706916437
+workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3706916437
